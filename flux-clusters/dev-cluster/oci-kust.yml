@@ -10,4 +10,4 @@ spec:
   sourceRef:
     kind: OCIRepository
     name: oci-ghcr
-  targetNamespace: default
+  targetNamespace: z2
